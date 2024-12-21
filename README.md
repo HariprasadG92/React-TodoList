@@ -6,3 +6,6 @@ This is a simple To-Do List application built using React.js. It allows users to
 
 The interface is clean and user-friendly, providing an efficient way to manage daily tasks.
 
+<img width="959" alt="Screenshot 2024-12-21 122529" src="https://github.com/user-attachments/assets/8f0f3ceb-515e-4d51-97ed-588cca408dfe" />
+
+
